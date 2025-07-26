@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'toha'
+
+[build]
+  writeStats = true
+  buildStatsFile = "hugo_stats.json"
+
+[build.js]
+  includePaths = ["node_modules"]
