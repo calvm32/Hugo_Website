@@ -1,0 +1,32 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# a summary about you
+summary: 'I aspire to investigate and solve environmental problems using mathematical skills.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "calum.heldt@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/calvm32"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/calum-heldt-49360528b/"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My CV"
+  url: "files/CV-25-01.pdf"
