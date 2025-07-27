@@ -14,52 +14,39 @@ buttons:
   filter: "all"
 - name: Research
   filter: "research"
-- name: Projects
-  filter: "projects"
-- name: Hobbies
-  filter: "hobbies"
+- name: Programming
+  filter: "programming"
 
 # your projects
 projects:
-- name: Galois theory
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: 3D Liquid Crystals
+  role: Researcher
+  timeline: "May 2025 - Present"
+  repo: "https://github.com/calvm32/q-tensor_Saves"
+  summary: Investigating formation of defects in a 3D system of liquid crystals.
+  tags: ["research", "liquid-crystals", "defects"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+- name: 2D Liquid Crystals
   role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  timeline: "May - July 2025"
+  repo: "https://github.com/calvm32/q-tensor-2d"
+  summary: Repository for solving for a 2D system of liquid crystals at equilibrium.
+  tags: ["programming", "liquid-crystals", "simulations"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Galois Theory
+  role: Sole researcher
+  timeline: "June 2022 - May 2024"
+  summary: Classifying maximal nilpotency class p-groups.
+  tags: ["research", "galois-theory"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Math Education
+  role: Researcher
+  timeline: "Sep. 2024 - Present"
+  summary: Examining the treatment of logarithms in college classrooms.
+  tags: ["research", "education"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: MaVS
+  role: Contributor
+  timeline: "June - Aug. 2024"
+  summary: STEM topics explained through interactive visuals. 3B1B SoME winner.
+  tags: ["programming", "web-dev"]
