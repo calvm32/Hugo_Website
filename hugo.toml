@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://calheldt.xyz'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Cal's Website"
 theme = 'toha'
 
 [build]

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <title>Search Results</title>
+    <title>My First Post</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -27,7 +27,10 @@
 <meta property="og:image" content="/images/author/cal.jpg">
 <meta property="og:url" content="https://hugo-toha.github.io">
 
-     
+    
+<meta name="description" content="My First Post" />
+
+
 
     
 
@@ -50,7 +53,7 @@ document.documentElement.setAttribute('data-theme', theme)
     
   </head>
 
-  <body class="type-search kind-page" data-bs-spy="scroll" data-bs-target="#TableOfContents" data-bs-offset="80">
+  <body class="type-posts kind-page" data-bs-spy="scroll" data-bs-target="#TableOfContents" data-bs-offset="80">
     <div class="container-fluid bg-secondary wrapper">
       
       
@@ -170,9 +173,6 @@ document.documentElement.setAttribute('data-theme', theme)
 
       
       
-  
-  
-
   <section class="sidebar-section" id="sidebar-section">
     <div class="sidebar-holder">
       <div class="sidebar" id="sidebar">
@@ -181,7 +181,7 @@ document.documentElement.setAttribute('data-theme', theme)
         </form>
         <div class="sidebar-tree">
           <ul class="tree" id="tree">
-            <li id="list-heading"><a href="/search" data-filter="all">Search</a></li>
+            <li id="list-heading"><a href="/posts/" data-filter="all">Posts</a></li>
             <div class="subtree">
                 
   
@@ -263,45 +263,105 @@ document.documentElement.setAttribute('data-theme', theme)
 
       
       
-<script>
-  document.body.classList.replace('kind-page', 'kind-section');
-</script>
 <section class="content-section" id="content-section">
-  <div class="content container-fluid" id="content">
-    <div class="container-fluid post-card-holder" id="post-card-holder">
-      <div id="search-results" style="display: flex; flex-wrap: wrap;">
+  <div class="content">
+    <div class="container p-0 read-area">
+      
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(/images/default-hero.jpg);'>
+      </div>
 
-        <script id="search-result-template" type="text/x-js-template">
-          <div class="post-card">
-              <div class="card">
-                <div class="card-head">
-                  <a href="${link}" class="post-card-link">
-                  <img class="card-img-top" src="${hero}" alt="Card Heading Image">
-                  </a>
-                </div>
-                <div class="card-body">
-                  <a href="${link}" class="post-card-link">
-                    <h5 class="card-title">${title}</h5>
-                    <p class="card-text post-summary">${summary}</p>
-                  </a>
-                  
-                </div>
-                <div class="card-footer">
-                  <span class="float-start">${date}</span>
-                  <a href="${link}" class="float-end btn btn-outline-info btn-sm">Read</a>
-                </div>
-              </div>
+      
+      <div class="page-content">
+        
+        <div class="author-profile ms-auto align-self-lg-center">
+          <img class="rounded-circle" src='/images/author/cal_hu_d30463cf795448ff.jpg' alt="Author Image">
+          <h5 class="author-name">Calum Heldt</h5>
+          <p class="text-muted">Monday, July 28, 2025</p>
+        </div>
+        
+
+        <div class="title">
+          <h1>My First Post</h1>
+        </div>
+
+        
+
+        
+        <div class="post-content" id="post-content">
+          
+        </div>
+
+        
+        <div class="row ps-3 pe-3">
+        
+          <div class="col-md-6 share-buttons">
+          
           </div>
-        </script>
+
+        
+        
+        </div>
+
+
+
+      
+      <hr />
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+<div class="row next-prev-navigator">
+  
+  
+</div>
+
+      <hr />
+
+      
+      
+
+      
+      
 
       </div>
     </div>
   </div>
+  
+  <a id="scroll-to-top" class="btn" type="button" data-bs-toggle="tooltip" data-bs-placement="left" title="Scroll to top">
+    <i class="fas fa-chevron-circle-up"></i>
+  </a>
 </section>
 
 
       
-       
+      
+  <section class="toc-section" id="toc-section">
+    
+  </section>
+
     </div>
 
     
