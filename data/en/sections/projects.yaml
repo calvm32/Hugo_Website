@@ -31,7 +31,7 @@ projects:
   timeline: "May - July 2025"
   repo: "https://github.com/calvm32/q-tensor-2d"
   summary: Repository for solving for a 2D system of liquid crystals at equilibrium.
-  tags: ["programming", "liquid-crystals", "simulations"]
+  tags: ["programming", "research", "liquid-crystals"]
 
 - name: Galois Theory
   role: Sole researcher
@@ -46,6 +46,7 @@ projects:
   tags: ["research", "education"]
 
 - name: MaVS
+  logo: "/images/math/MaVS-RemoveBG.png"
   role: Contributor
   timeline: "June - Aug. 2024"
   summary: STEM topics explained through interactive visuals. 3B1B SoME winner.

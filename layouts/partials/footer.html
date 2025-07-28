@@ -147,6 +147,7 @@
           {{ $provider := site.Params.footer.newsletter.provider }}
           <div class="col-md-4 col-sm-12">
             <p>{{ i18n "newsletter_text" }}</p>
+
             {{ if and (eq $provider "mailchimp") site.Params.footer.newsletter.mailchimpURL }}  <!-- mailchimp -->
               <form
                 action="{{ site.Params.footer.newsletter.mailchimpURL }}"
@@ -155,31 +156,30 @@
                 name="mc-embedded-subscribe-form"
                 class="validate"
                 target="_blank"
-                novalidate >
-                <div class="form-group">
+                novalidate>
+                <div class="form-group d-flex gap-2">
                   <input
                     type="email"
                     class="form-control"
                     id="mce-EMAIL"
                     name="EMAIL"
-                    aria-describedby="emailHelp"
                     placeholder="{{ i18n "newsletter_input_placeholder" }}"
                   />
-                  <small id="emailHelp" class="form-text text-muted"
-                    >{{ i18n "newsletter_warning" }}</small
-                  >
+                  <button type="submit" class="btn btn-info">{{ i18n "submit" }}</button>
                 </div>
-                <button type="submit" class="btn btn-info">{{ i18n "submit" }}</button>
               </form>
             {{ else }}
               <form method='post' action='https://blogtrottr.com'>
-              <div class="form-group">
-              <input type='email' class="form-control" name='btr_email' placeholder="{{ i18n "newsletter_input_placeholder" }}"/><br />
-              <input type='hidden' name='btr_url' value='{{ "" | absLangURL }}/index.xml' />
-              <input type='hidden' name='schedule_type' value='1' />
-              <small id="emailHelp" class="form-text text-muted">{{ i18n "newsletter_warning" }}</small>
-              <button type="submit" class="btn btn-info"> {{ i18n "submit" }} </button>
-              </div>
+                <div class="form-group d-flex gap-2">
+                  <input
+                    type='email'
+                    class="form-control"
+                    name='btr_email'
+                    placeholder="{{ i18n "newsletter_input_placeholder" }}" />
+                  <input type='hidden' name='btr_url' value='{{ "" | absLangURL }}/index.xml' />
+                  <input type='hidden' name='schedule_type' value='1' />
+                  <button type="submit" class="btn btn-info">{{ i18n "submit" }}</button>
+                </div>
               </form>
             {{ end }}
           </div>
@@ -192,30 +192,5 @@
       <p id="disclaimer"><strong>{{ i18n "disclaimer_text" }}:</strong> {{ $disclaimer | markdownify }}</p>
     </div>
     {{ end }}
-    <!--
-    {{ if $credentialsEnabled }}
-    <hr />
-    <div class="container">
-      <div class="row text-start">
-        <div class="col-md-4">
-          <a id="theme" href="https://github.com/hugo-toha/toha" target="_blank" rel="noopener">
-            <img src="{{ $themeLogo }}" alt="Toha Theme Logo">
-            Toha
-          </a>
-        </div>
-        <div class="col-md-4 text-center">{{ $copyrightNotice | markdownify }}</div>
-        <div class="col-md-4 text-end">
-          <a id="hugo" href="https://gohugo.io/" target="_blank" rel="noopener">{{ i18n "hugoAttributionText" }}
-          <img
-            src="{{ $hugoLogo }}"
-            alt="Hugo Logo"
-            height="18"
-          />
-          </a>
-        </div>
-      </div>
-    </div>
-    {{ end }}
-     -->
   </footer>
 {{end}}
