@@ -120,13 +120,7 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/content-organization/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/introduction/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/markdown-sample/</loc>
@@ -135,19 +129,10 @@
     <loc>http://localhost:1313/tags/multi-lingual/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/category/sub-category/rich-content/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/shortcodes/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/category/sub-category/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/category/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
@@ -156,7 +141,19 @@
     <loc>http://localhost:1313/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/art/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/content-organization/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/art/origami/</loc>
+  </url><url>
     <loc>http://localhost:1313/search/</loc>
     <priority>0.1</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/art/photos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/art/traditional/</loc>
   </url>
 </urlset>

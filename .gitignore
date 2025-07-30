@@ -1,5 +1,5 @@
-resources/*
 node_modules/*
 public/*
+resources/*
 
 go.mod

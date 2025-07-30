@@ -1,13 +1,12 @@
 ---
-title: "Rich Content"
-date: 2020-06-08T08:06:25+06:00
-description: Sample post with multiple images, embedded video etc.
+title: "Origami Art"
+description: Most of the origami pictured was made in 2021-2023. As I relocate various instructions, I will update this page to credit the original creators of each module.
 menu:
   sidebar:
-    name: Rich Content
-    identifier: rich-content
-    parent: sub-category
-    weight: 10
+    name: Origami
+    identifier: origami
+    parent: art
+    weight: 1
 hero: images/forest.jpg
 tags:
 - Markdown
