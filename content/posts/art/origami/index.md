@@ -1,22 +1,16 @@
 ---
 title: "Origami Art"
-description: Most of the origami pictured was made in 2021-2023. As I relocate various instructions, I will update this page to credit the original creators of each module.
+description: "Modular origami art"
 menu:
   sidebar:
     name: Origami
     identifier: origami
     parent: art
     weight: 1
-hero: images/forest.jpg
-tags:
-- Markdown
-- Content Organization
-- Multi-lingual
-categories:
-- Basic
+hero: /images/RhombicTri1-removebg.png
 ---
 
-This sample post tests the followings:
+Modular origami initiated an interest into the symmetries and construction of polytopes. The repetitive nature of folding hundreds of pieces could also be quite soothing. Most of the origami pictured was made in 2021-2023. 
 
 - Category, sub-category nesting in the sidebar.
 - Hero image and other images are in `images` folder inside this post directory.
@@ -27,19 +21,3 @@ This sample post tests the followings:
 {{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
 
 {{< vs >}}
-
-### X Sample
-
-{{< x user="SanDiegoZoo" id="1453110110599868418" >}}
-
-{{< vs >}}
-
-### YouTube Video Sample
-
-{{< youtube ZJthWmvUzzc >}}
-
-{{< vs >}}
-
-### Vimeo Video Sample
-
-{{< vimeo 48912912 >}}
