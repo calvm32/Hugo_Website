@@ -5,4 +5,5 @@ menu:
     name: Projects
     identifier: projects
     weight: 20
+math: true
 ---

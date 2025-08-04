@@ -1,7 +1,7 @@
 baseURL = 'https://calheldt.xyz'
 languageCode = 'en-us'
 title = "Cal's Website"
-theme = 'toha'
+theme = ["hugo-embed-pdf-shortcode", "toha"]
 
 [build]
   writeStats = true
@@ -9,3 +9,5 @@ theme = 'toha'
 
 [build.js]
   includePaths = ["node_modules"]
+
+enableInlineShortcodes = true

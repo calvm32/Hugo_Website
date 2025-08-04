@@ -10,4 +10,4 @@ menu:
 hero: /images/Cows2.jpg
 ---
 
-My photography is an exercise in documenting nature and encouraging an appreciation for it.
+x
