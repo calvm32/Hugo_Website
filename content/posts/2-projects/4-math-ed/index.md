@@ -10,4 +10,3 @@ menu:
 hero: /images/Art-removebg.png
 ---
 
-x

@@ -11,3 +11,8 @@ theme = ["hugo-embed-pdf-shortcode", "toha"]
   includePaths = ["node_modules"]
 
 enableInlineShortcodes = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
