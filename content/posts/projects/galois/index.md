@@ -6,13 +6,12 @@ menu:
     name: Galois Theory
     identifier: galois-theory
     parent: projects
-    weight: 3
-hero: /images/Art-removebg.png
+    weight: 30
+hero: background3.png
 math: true
-linkify: true
 ---
 
-My current research is using Artin-Schreier presentations to classify Galois
+This research uses Artin-Schreier presentations to classify Galois
 extensions of degree $p^6$ and $p^5$ with maximal nilpotency class over
 a field of characteristic $p$, for some prime $p$. From May
 2023-24, I was funded by the NASA Nebraska Space Grant. My profile is
@@ -25,3 +24,5 @@ Theory Conference in Omaha, Nebraska. The official website can be found
 the Omaha 2024 conference.
 
 {{< embed-pdf url="./galois-theory.pdf" >}}
+
+This project is ongoing, and I hope to publish my results soon.

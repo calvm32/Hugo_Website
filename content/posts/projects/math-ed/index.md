@@ -6,7 +6,7 @@ menu:
     name: Math Education
     identifier: math-ed
     parent: projects
-    weight: 4
+    weight: 40
 hero: /images/Art-removebg.png
 ---
 

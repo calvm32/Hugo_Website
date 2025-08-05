@@ -6,7 +6,7 @@ menu:
     name: 2D Liquid Crystals
     identifier: 2D
     parent: projects
-    weight: 2
+    weight: 20
 hero: /images/Cows2.jpg
 ---
 

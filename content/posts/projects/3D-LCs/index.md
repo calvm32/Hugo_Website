@@ -6,8 +6,8 @@ menu:
     name: 3D Liquid Crystals
     identifier: 3D
     parent: projects
-    weight: 1
-hero: /images/RhombicTri1-removebg.png
+    weight: 10
+hero: background.png
 ---
 
 x

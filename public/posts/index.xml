@@ -8,38 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Introduction</title>
-      <link>http://localhost:1313/posts/1-introduction/</link>
+      <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>http://localhost:1313/posts/1-introduction/</guid>
+      <guid>http://localhost:1313/posts/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2D Liquid Crystals</title>
-      <link>http://localhost:1313/posts/2-projects/2-2d/</link>
+      <link>http://localhost:1313/posts/projects/2d-lcs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2-projects/2-2d/</guid>
+      <guid>http://localhost:1313/posts/projects/2d-lcs/</guid>
       <description>&lt;p&gt;x&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>3D Liquid Crystals</title>
-      <link>http://localhost:1313/posts/2-projects/1-3d/</link>
+      <link>http://localhost:1313/posts/projects/3d-lcs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2-projects/1-3d/</guid>
+      <guid>http://localhost:1313/posts/projects/3d-lcs/</guid>
       <description>&lt;p&gt;x&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Galois Theory Research</title>
-      <link>http://localhost:1313/posts/2-projects/3-galois/</link>
+      <link>http://localhost:1313/posts/projects/galois/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2-projects/3-galois/</guid>
-      <description>&lt;p&gt;My current research is using Artin-Schreier presentations to classify Galois
+      <guid>http://localhost:1313/posts/projects/galois/</guid>
+      <description>&lt;p&gt;This research uses Artin-Schreier presentations to classify Galois
 extensions of degree $p^6$ and $p^5$ with maximal nilpotency class over
 a field of characteristic $p$, for some prime $p$. From May
 2023-24, I was funded by the NASA Nebraska Space Grant. My profile is
@@ -52,46 +52,46 @@ the Omaha 2024 conference.&lt;/p&gt;</description>
     
     <item>
       <title>Math Education Research</title>
-      <link>http://localhost:1313/posts/2-projects/4-math-ed/</link>
+      <link>http://localhost:1313/posts/projects/math-ed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2-projects/4-math-ed/</guid>
+      <guid>http://localhost:1313/posts/projects/math-ed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling and Visualizing STEM (MaVS)</title>
-      <link>http://localhost:1313/posts/2-projects/5-mavs/</link>
+      <link>http://localhost:1313/posts/projects/mavs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2-projects/5-mavs/</guid>
+      <guid>http://localhost:1313/posts/projects/mavs/</guid>
       <description>&lt;p&gt;x&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Origami Art</title>
-      <link>http://localhost:1313/posts/3-art/1-origami/</link>
+      <link>http://localhost:1313/posts/art/origami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/3-art/1-origami/</guid>
+      <guid>http://localhost:1313/posts/art/origami/</guid>
       <description>&lt;p&gt;Modular origami initiated an interest into the symmetries and construction of polytopes. Most of the origami pictured was made in 2021-2023.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>http://localhost:1313/posts/3-art/2-photos/</link>
+      <link>http://localhost:1313/posts/art/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/3-art/2-photos/</guid>
+      <guid>http://localhost:1313/posts/art/photos/</guid>
       <description>&lt;p&gt;My photography is an exercise in documenting nature and encouraging an appreciation for it.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Traditional Art</title>
-      <link>http://localhost:1313/posts/3-art/3-traditional/</link>
+      <link>http://localhost:1313/posts/art/traditional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/3-art/3-traditional/</guid>
+      <guid>http://localhost:1313/posts/art/traditional/</guid>
       <description>&lt;p&gt;I frequently use multiple mediums because it&amp;rsquo;s a great way to engage different parts of my brain. Most of the art pictured was made from 2023-present.&lt;/p&gt;</description>
     </item>
     

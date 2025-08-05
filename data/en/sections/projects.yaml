@@ -5,6 +5,7 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
+  math: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -22,26 +23,30 @@ projects:
 - name: 3D Liquid Crystals
   role: Researcher
   timeline: "May 2025 - Present"
-  repo: "https://github.com/calvm32/q-tensor_Saves"
+  #repo: "https://github.com/calvm32/q-tensor_Saves"
+  url: "/posts/projects/3D-LCs"
   summary: Investigating formation of defects in a 3D system of liquid crystals.
   tags: ["research", "liquid-crystals", "defects"]
 
 - name: 2D Liquid Crystals
   role: Developer
   timeline: "May - July 2025"
-  repo: "https://github.com/calvm32/q-tensor-2d"
+  #repo: "https://github.com/calvm32/q-tensor-2d"
+  url: "/posts/projects/2D-LCs"
   summary: Repository for solving for a 2D system of liquid crystals at equilibrium.
   tags: ["programming", "research", "liquid-crystals"]
 
 - name: Galois Theory
   role: Sole researcher
   timeline: "June 2022 - May 2024"
-  summary: Classifying maximal nilpotency class p-groups.
+  url: "/posts/projects/galois"
+  summary: Finding the Artin-Schreier presentations of maximal nilpotency class p-groups for <i>p<sup>5</sup></i> and <i>p<sup>6</sup></i>.
   tags: ["research", "galois-theory"]
 
 - name: Math Education
   role: Researcher
   timeline: "Sep. 2024 - Present"
+  url: "/posts/projects/math-ed"
   summary: Examining the treatment of logarithms in college classrooms.
   tags: ["research", "education"]
 
@@ -49,5 +54,11 @@ projects:
   logo: "/images/math/MaVS-RemoveBG.png"
   role: Contributor
   timeline: "June - Aug. 2024"
+  url: "/posts/projects/MaVS"
   summary: STEM topics explained through interactive visuals. 3B1B SoME winner.
   tags: ["programming", "web-dev"]
+
+#- name: Read More
+#  url: "/posts/projects/"
+#  summary: Read more about each of these projects.
+#  tags: ["research", "programming"]

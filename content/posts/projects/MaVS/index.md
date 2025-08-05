@@ -6,7 +6,7 @@ menu:
     name: MaVS
     identifier: mavs
     parent: projects
-    weight: 5
+    weight: 50
 hero: /images/Art-removebg.png
 ---
 
