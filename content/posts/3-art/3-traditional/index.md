@@ -9,25 +9,21 @@ menu:
     weight: 3
 hero: /images/Art-removebg.png
 images:
-  - image: /assets/Art Images/BluePerson.jpg
+  - image: /images/BluePerson.jpg
     title: Untitled
     date: 2023
 
-  - image: /assets/Art Images/BlackOnStripes.jpg
+  - image: /images/BlackOnStripes.jpg
     title: Untitled
     date: 2024
 
-  - image: /assets/Art Images/OpenMouth.jpg
+  - image: /images/OpenMouth.jpg
     title: Untitled
     date: 2024
 
-  - image: /assets/Art Images/Stone.jpg
+  - image: /images/Stone.jpg
     title: "Architect"
-    date: 2024
-
-  - image: /assets/Art Images/YellowOnBlue.jpg
-    title: Untitled
     date: 2024
 ---
 
-I frequently use several multiple mediums because it's a great way to engage different parts of my brain. Most of the art pictured was made from 2023-present. 
+I frequently use multiple mediums because it's a great way to engage different parts of my brain. Most of the art pictured was made from 2023-present. 

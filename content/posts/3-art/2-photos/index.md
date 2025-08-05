@@ -7,7 +7,7 @@ menu:
     identifier: photos
     parent: art
     weight: 2
-hero: Cows2.jpg
+hero: Cows2.png
 images:
   - image: /images/Toads.jpg
     title: Two Toads
