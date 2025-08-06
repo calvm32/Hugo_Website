@@ -7,7 +7,7 @@ menu:
     identifier: origami
     parent: art
     weight: 1
-hero: SeveralOrigamis.png
+hero: bg.png
 images:
   - image: 
       - "/images/GeodesicTetr1.jpg"

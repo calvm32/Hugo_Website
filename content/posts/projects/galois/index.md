@@ -7,7 +7,7 @@ menu:
     identifier: galois-theory
     parent: projects
     weight: 30
-hero: background3.png
+hero: bg.png
 math: true
 ---
 

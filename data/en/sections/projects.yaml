@@ -51,10 +51,10 @@ projects:
   tags: ["research", "education"]
 
 - name: MaVS
-  logo: "/images/math/MaVS-RemoveBG.png"
+  logo: "/images/math/MaVS-bg.png"
   role: Contributor
   timeline: "June - Aug. 2024"
-  url: "/posts/projects/MaVS"
+  url: "https://mavs.uno/"
   summary: STEM topics explained through interactive visuals. 3B1B SoME winner.
   tags: ["programming", "web-dev"]
 

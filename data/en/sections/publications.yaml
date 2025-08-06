@@ -24,8 +24,9 @@ publications:
     url: http://sigmaa.maa.org/rume/Site/Proceedings.html
   authors:
   - name: Calum Heldt
-    # url: https://example.com
+    url: https://www.calheldt.xyz
   - name: Keith Gallagher
+    url: https://www.unomaha.edu/college-of-arts-and-sciences/mathematics/about-us/directory/keith-gallagher.php
   paper:
     summary: Students often apply logarithmic identities without accounting for their domain of definition, 
       leading to missing or extraneous solutions. We investigate the treatment of these errors in websites 

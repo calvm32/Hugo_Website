@@ -7,7 +7,7 @@ menu:
     identifier: traditional
     parent: art
     weight: 3
-hero: background.png
+hero: bg.png
 images:
   - image: /images/old-man.jpeg
     title: "Old Man"

@@ -1,5 +1,5 @@
 name: "Calum Heldt"
-nickname: "Cal"
+nickname: "Calum"
 
 greeting: "Hi! I'm"
 image: "images/author/cal.jpg"
@@ -13,6 +13,7 @@ summary:
   - Mathematician
   - Environmentalist
   - Artist
+  - Cal
 
 footer:
   newsletter: False

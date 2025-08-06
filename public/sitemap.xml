@@ -117,9 +117,6 @@
     <loc>http://localhost:1313/posts/introduction/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-lingual/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
@@ -141,8 +138,6 @@
     <loc>http://localhost:1313/posts/projects/galois/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/projects/math-ed/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/projects/mavs/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/art/origami/</loc>
   </url><url>
