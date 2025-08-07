@@ -1,7 +1,7 @@
 baseURL = 'https://calheldt.xyz'
 languageCode = 'en-us'
 title = "Cal's Website"
-theme = ["hugo-embed-pdf-shortcode", "toha"]
+theme = ["toha"]
 
 [build]
   writeStats = true
