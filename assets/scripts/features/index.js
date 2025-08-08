@@ -1,6 +1,8 @@
+/*
 if (process.env.FEATURE_VIDEOPLAYER === '1') {
   import('./videoplayer')
 }
+*/
 
 if (process.env.FEATURE_TOC === '1') {
   import('./toc')
