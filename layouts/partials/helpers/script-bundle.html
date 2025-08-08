@@ -1,8 +1,10 @@
 {{- $options := partial "helpers/get-esbuild-options.html" . -}}
-{{- $options = $options | merge (dict "targetPath" "application1.js") -}}
 
-{{ $application1 := resources.Get "scripts/application1.js" | js.Build | fingerprint }}
-{{ $application2 := resources.Get "scripts/application2.js" | js.Build | fingerprint }}
+{{- $app1Options := $options | merge (dict "targetPath" "application1.js") -}}
+{{- $app2Options := $options | merge (dict "targetPath" "application2.js") -}}
+
+{{- $application1 := resources.Get "scripts/application1.js" | js.Build $app1Options | fingerprint -}}
+{{- $application2 := resources.Get "scripts/application2.js" | js.Build $app2Options | fingerprint -}}
 
 <script src="{{ $application1.RelPermalink }}" integrity="{{ $application1.Data.Integrity }}" defer></script>
 <script src="{{ $application2.RelPermalink }}" integrity="{{ $application2.Data.Integrity }}" defer></script>
