@@ -20,9 +20,11 @@ if (process.env.FEATURE_FLOWCHART === '1') {
 }
 */
 
+/*
 if (process.env.FEATURE_SYNTAXHIGHLIGHT === '1') {
   import('./syntaxhighlight')
 }
+*/
 
 if (process.env.FEATURE_MATH === '1') {
   import('./math')
@@ -32,6 +34,8 @@ if (process.env.FEATURE_EMBEDPDF === '1') {
   import('./embedpdf')
 }
 
+/*
 if (process.env.FEATURE_COPYCODEBUTTON === '1') {
   import('./copyCode')
 }
+*/
