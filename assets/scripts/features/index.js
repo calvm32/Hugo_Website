@@ -32,9 +32,11 @@ if (process.env.FEATURE_MATH === '1') {
   import('./math')
 }
 
+/*
 if (process.env.FEATURE_EMBEDPDF === '1') {
   import('./embedpdf')
 }
+*/
 
 /*
 if (process.env.FEATURE_COPYCODEBUTTON === '1') {
