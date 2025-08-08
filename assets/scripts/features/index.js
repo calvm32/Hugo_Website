@@ -28,9 +28,11 @@ if (process.env.FEATURE_SYNTAXHIGHLIGHT === '1') {
 }
 */
 
+/*
 if (process.env.FEATURE_MATH === '1') {
   import('./math')
 }
+*/
 
 /*
 if (process.env.FEATURE_EMBEDPDF === '1') {
