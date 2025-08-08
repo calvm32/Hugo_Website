@@ -1,98 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Cal&#39;s Website</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Cal&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;m Calum (Cal) Heldt.&lt;/p&gt;
-&lt;p&gt;This website is a personal repository for my various projects and hobbies.&lt;/p&gt;
-&lt;p&gt;I attend the University of Nebraska at Omaha (UNO) and Lincoln (UNL). I plan to attend graduate school for applied math. Eventually, I&amp;rsquo;ll utilize my knowledge to solve environmental problems while teaching.&lt;/p&gt;
-&lt;p&gt;If you have any questions, please reach out!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2D Liquid Crystals</title>
-      <link>http://localhost:1313/posts/projects/2d-lcs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/projects/2d-lcs/</guid>
-      <description>&lt;p&gt;The repository &lt;a href=&#34;https://github.com/calvm32/q-tensor-2d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;quot;&lt;i&gt;Q-tensor 2D&lt;/i&gt;&amp;quot;&lt;/a&gt; is an implementation of the Landau-de Gennes (LdG) Q-tensor model for liquid crystals (LCs) based on Andrew Hicks&amp;rsquo; &lt;a href=&#34;https://github.com/andrewlhicks/q-tensor-3d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;quot;&lt;i&gt;Q-tensor 3D&lt;/i&gt;&amp;quot;&lt;/a&gt;. Our goal was to learn the LdG method for solving the energy of a system of LCs at equilibrium.&lt;/p&gt;
-&lt;p&gt;Yuzhi Liu, Steven Spasov, and I built this repository in May - July 2025 under the direction of &lt;a href=&#34;https://andrewhicks.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Andrew Hicks&lt;/a&gt;. We were funded by Carnegie Mellon University as a part of the &lt;a href=&#34;https://www.cmu.edu/math/undergrad/suami/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer of Undergraduate Applied Mathematics Institute&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>3D Liquid Crystals</title>
-      <link>http://localhost:1313/posts/projects/3d-lcs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/projects/3d-lcs/</guid>
-      <description>&lt;p&gt;There is plenty of research investigating properties of liquid crystal (LC) spheres, but little work published about LC shells, the result of removing the volume of a smaller sphere from a larger one. Yuzhi Liu, Dr. Andrew Hicks, and I are working to determine how and why different kinds of defects form in these shells.&lt;/p&gt;
-&lt;p&gt;Yuzhi Liu, Steven Spasov, and I began this work in May - July 2025 under the direction of &lt;a href=&#34;https://andrewhicks.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Andrew Hicks&lt;/a&gt;. We were funded by Carnegie Mellon University as a part of the &lt;a href=&#34;https://www.cmu.edu/math/undergrad/suami/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer of Undergraduate Applied Mathematics Institute&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Galois Theory Research</title>
-      <link>http://localhost:1313/posts/projects/galois/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/projects/galois/</guid>
-      <description>&lt;p&gt;This research uses Artin-Schreier presentations to classify Galois
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Cal's Website</title><link>https://calheldt.xyz/posts/</link><description>Recent content in Posts on Cal's Website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://calheldt.xyz/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://calheldt.xyz/posts/introduction/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://calheldt.xyz/posts/introduction/</guid><description>&lt;p>Hi! I&amp;rsquo;m Calum (Cal) Heldt.&lt;/p>
+&lt;p>This website is a personal repository for my various projects and hobbies.&lt;/p>
+&lt;p>I attend the University of Nebraska at Omaha (UNO) and Lincoln (UNL). I plan to attend graduate school for applied math. Eventually, I&amp;rsquo;ll utilize my knowledge to solve environmental problems while teaching.&lt;/p>
+&lt;p>If you have any questions, please reach out!&lt;/p></description></item><item><title>2D Liquid Crystals</title><link>https://calheldt.xyz/posts/projects/2d-lcs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://calheldt.xyz/posts/projects/2d-lcs/</guid><description>&lt;p>The repository &lt;a href="https://github.com/calvm32/q-tensor-2d" target="_blank" rel="noopener">&amp;quot;&lt;i>Q-tensor 2D&lt;/i>&amp;quot;&lt;/a> is an implementation of the Landau-de Gennes (LdG) Q-tensor model for liquid crystals (LCs) based on Andrew Hicks&amp;rsquo; &lt;a href="https://github.com/andrewlhicks/q-tensor-3d" target="_blank" rel="noopener">&amp;quot;&lt;i>Q-tensor 3D&lt;/i>&amp;quot;&lt;/a>. Our goal was to learn the LdG method for solving the energy of a system of LCs at equilibrium.&lt;/p>
+&lt;p>Yuzhi Liu, Steven Spasov, and I built this repository in May - July 2025 under the direction of &lt;a href="https://andrewhicks.info/" target="_blank" rel="noopener">Dr. Andrew Hicks&lt;/a>. We were funded by Carnegie Mellon University as a part of the &lt;a href="https://www.cmu.edu/math/undergrad/suami/index.html" target="_blank" rel="noopener">Summer of Undergraduate Applied Mathematics Institute&lt;/a>.&lt;/p></description></item><item><title>3D Liquid Crystals</title><link>https://calheldt.xyz/posts/projects/3d-lcs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://calheldt.xyz/posts/projects/3d-lcs/</guid><description>&lt;p>There is plenty of research investigating properties of liquid crystal (LC) spheres, but little work published about LC shells, the result of removing the volume of a smaller sphere from a larger one. Yuzhi Liu, Dr. Andrew Hicks, and I are working to determine how and why different kinds of defects form in these shells.&lt;/p>
+&lt;p>Yuzhi Liu, Steven Spasov, and I began this work in May - July 2025 under the direction of &lt;a href="https://andrewhicks.info/" target="_blank" rel="noopener">Dr. Andrew Hicks&lt;/a>. We were funded by Carnegie Mellon University as a part of the &lt;a href="https://www.cmu.edu/math/undergrad/suami/index.html" target="_blank" rel="noopener">Summer of Undergraduate Applied Mathematics Institute&lt;/a>.&lt;/p></description></item><item><title>Galois Theory Research</title><link>https://calheldt.xyz/posts/projects/galois/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://calheldt.xyz/posts/projects/galois/</guid><description>&lt;p>This research uses Artin-Schreier presentations to classify Galois
 extensions of degree $p^6$ and $p^5$ with maximal nilpotency class over
 a field of characteristic $p$, for some prime $p$. From May
 2023-24, I was funded by the NASA Nebraska Space Grant. My profile is
-featured on the NASA Nebraska Space Grant website &lt;a href=&#34;https://www.nespacegrant.org/students-2023-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;On May 31st, 2024, I presented at the annual Hopf Algebras and Galois Module
+featured on the NASA Nebraska Space Grant website &lt;a href="https://www.nespacegrant.org/students-2023-2024" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>On May 31st, 2024, I presented at the annual Hopf Algebras and Galois Module
 Theory Conference in Omaha, Nebraska. The official website can be found
-&lt;a href=&#34;http://www.hopf-galois.org/2024Omaha/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Below are the slides and a video of me presenting them to the audience at
-the Omaha 2024 conference.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Education Research</title>
-      <link>http://localhost:1313/posts/projects/math-ed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/projects/math-ed/</guid>
-      <description>&lt;p&gt;Since September, 2024, I have worked under the supervision of &lt;a href=&#34;https://www.unomaha.edu/college-of-arts-and-sciences/mathematics/about-us/directory/keith-gallagher.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Keith Gallagher&lt;/a&gt; to examine the treatment of logarithms in College Algebra-level resources.&lt;/p&gt;
-&lt;p&gt;This work has resulted in one peer-reviewed &lt;a href=&#34;http://sigmaa.maa.org/rume/RUME27_Proceedings.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;conference proceeding&lt;/a&gt; from SIGMAA on RUME 2025. I gave a talk on this paper at the Nebraska-SE South Dakota &lt;a href=&#34;https://www.creighton.edu/arts-sciences/math/nebraska-se-south-dakota-section-meeting-maa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;section meeting&lt;/a&gt; of the MAA.&lt;/p&gt;
-&lt;p&gt;Currently, I am working on a literature review to further investigate this problem.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Origami Art</title>
-      <link>http://localhost:1313/posts/art/origami/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/art/origami/</guid>
-      <description>&lt;p&gt;Modular origami initiated an interest into the symmetries and construction of polytopes. Most of the origami pictured was made in 2021-2023.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
-      <link>http://localhost:1313/posts/art/photos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/art/photos/</guid>
-      <description>&lt;p&gt;My photography is an exercise in documenting nature and encouraging an appreciation for it.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Traditional Art</title>
-      <link>http://localhost:1313/posts/art/traditional/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/art/traditional/</guid>
-      <description>&lt;p&gt;I frequently use multiple mediums because it&amp;rsquo;s a great way to engage different parts of my brain. Most of the art pictured was made from 2023-present.&lt;/p&gt;</description>
-    </item>
-    
-    
-  </channel>
-</rss>
+&lt;a href="http://www.hopf-galois.org/2024Omaha/index.html" target="_blank" rel="noopener">here&lt;/a>. Below are the slides and a video of me presenting them to the audience at
+the Omaha 2024 conference.&lt;/p></description></item><item><title>Math Education Research</title><link>https://calheldt.xyz/posts/projects/math-ed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://calheldt.xyz/posts/projects/math-ed/</guid><description>&lt;p>Since September, 2024, I have worked under the supervision of &lt;a href="https://www.unomaha.edu/college-of-arts-and-sciences/mathematics/about-us/directory/keith-gallagher.php" target="_blank" rel="noopener">Dr. Keith Gallagher&lt;/a> to examine the treatment of logarithms in College Algebra-level resources.&lt;/p>
+&lt;p>This work has resulted in one peer-reviewed &lt;a href="http://sigmaa.maa.org/rume/RUME27_Proceedings.pdf" target="_blank" rel="noopener">conference proceeding&lt;/a> from SIGMAA on RUME 2025. I gave a talk on this paper at the Nebraska-SE South Dakota &lt;a href="https://www.creighton.edu/arts-sciences/math/nebraska-se-south-dakota-section-meeting-maa" target="_blank" rel="noopener">section meeting&lt;/a> of the MAA.&lt;/p>
+&lt;p>Currently, I am working on a literature review to further investigate this problem.&lt;/p></description></item><item><title>Origami Art</title><link>https://calheldt.xyz/posts/art/origami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://calheldt.xyz/posts/art/origami/</guid><description>&lt;p>Modular origami initiated an interest into the symmetries and construction of polytopes. Most of the origami pictured was made in 2021-2023.&lt;/p></description></item><item><title>Photography</title><link>https://calheldt.xyz/posts/art/photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://calheldt.xyz/posts/art/photos/</guid><description>&lt;p>My photography is an exercise in documenting nature and encouraging an appreciation for it.&lt;/p></description></item><item><title>Traditional Art</title><link>https://calheldt.xyz/posts/art/traditional/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://calheldt.xyz/posts/art/traditional/</guid><description>&lt;p>I frequently use multiple mediums because it&amp;rsquo;s a great way to engage different parts of my brain. Most of the art pictured was made from 2023-present.&lt;/p></description></item></channel></rss>
