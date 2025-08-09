@@ -131,7 +131,7 @@
       }
     }
     .feather-menu {
-      stroke: get-light-color('inverse-text-color') !important;
+      stroke: get-light-color('inverse-text-color');
     }
   }
 
@@ -281,6 +281,6 @@ html[data-theme='dark'] {
 
   .feather-sidebar,
   .feather-menu {
-    stroke: get-dark-color('text-color') !important;
+    stroke: get-dark-color('text-color');
   }
 }
