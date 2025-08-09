@@ -20,8 +20,8 @@ enableInlineShortcodes = true
 [params]
   [params.features]
     [params.features.theme]
-    enable = true
+    enable = false
       [params.features.theme.services]
       light = false  # enable light theme. default "true"
       dark = true    # enable dark theme. default "true"
-      default = "system"  # can be either light, dark or system. default "system"
+      default = "dark"  # can be either light, dark or system. default "system"
