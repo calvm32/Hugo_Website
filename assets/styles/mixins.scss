@@ -5,7 +5,7 @@
       @return map-get($theme, $key);
     }
   }
-  @return red; // default color for debugging purpose
+  //@return red; // default color for debugging purpose
 }
 
 @function get-light-color($key) {
@@ -58,7 +58,7 @@
   } @else {
     @return map-get($colors, 'text-color');
   }
-  @return red;
+  //@return red;
 }
 
 @function get-alert-text-color($type, $mode) {
@@ -68,5 +68,5 @@
   } @else {
     @return map-get($colors, 'bg-color');
   }
-  @return red;
+  //@return red;
 }
