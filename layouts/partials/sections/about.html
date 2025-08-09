@@ -19,28 +19,31 @@
     {{ end }}
 
       <!-- Horizontal row for name, resume, and social links -->
-      <div class="d-flex flex-wrap align-items-center gap-2 p-1">
-        <!-- Author name -->
-        <h3 class="mb-0 me-3">{{ $author.name }}</h3>
+      <div class="d-flex flex-column flex-md-row flex-wrap align-items-start align-items-md-center gap-2 p-1">
+        <!-- Name + resume + resource links -->
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <!-- Author name -->
+          <h3 class="mb-0 me-3">{{ $author.name }}</h3>
 
-        <!-- Resume button -->
-        {{ if .resume }}
-        <a href="{{ .resume | relURL }}" title="{{ i18n "resume"}}" target="#">
-          <button class="btn btn-dark btn-sm">{{ i18n "resume"}}</button>
-        </a>
-        {{ end }}
+          <!-- Resume button -->
+          {{ if .resume }}
+          <a href="{{ .resume | relURL }}" title="{{ i18n "resume"}}" target="#">
+            <button class="btn btn-dark btn-sm">{{ i18n "resume"}}</button>
+          </a>
+          {{ end }}
 
-        <!-- Resource buttons -->
-        {{ range .resourceLinks }}
-        <a href="{{ .url | relURL }}" title="{{ .title }}" target="#">
-          <button class="btn btn-dark btn-sm">{{ .title }}</button>
-        </a>
-        {{ end }}
+          <!-- Resource buttons -->
+          {{ range .resourceLinks }}
+          <a href="{{ .url | relURL }}" title="{{ .title }}" target="#">
+            <button class="btn btn-dark btn-sm">{{ .title }}</button>
+          </a>
+          {{ end }}
+        </div>
 
         <!-- Social links -->
-        <ul class="social-link d-flex align-items-center list-unstyled mb-0">
+        <ul class="social-link d-flex align-items-center list-unstyled mb-0 mt-2 mt-md-0">
           {{ range .socialLinks }}
-          <li class="ms-2">
+          <li class="ms-0 ms-md-2">
             {{ if eq .name "Email" }}
               <a href="mailto:{{ .url }}" title="{{ .name }}" target="_blank" rel="{{.rel | default "noopener"}}"><i class="{{ .icon }}"></i></a>
             {{ else if eq .name (i18n "phone") }}
@@ -64,7 +67,7 @@
       {{ end }}
 
       <!-- Summary -->
-      <p class="p-1 text-justify">
+      <p class="p-1">
         {{ .summary | markdownify }}
       </p>
     </div>
