@@ -1,5 +1,5 @@
 @mixin nav-item-hover-effect($theme: 'light') {
-  color: get-light-color('accent-color') !important;
+  color: get-light-color('text-color') !important;
   border-bottom: 2px solid get-light-color('accent-color') !important;
   background: rgba(get-light-color('accent-color'), 0.1);
   @include transition();
@@ -159,7 +159,7 @@
     &.transparent-navbar {
       .navbar-nav .active,
       li a:hover {
-        color: get-light-color('accent-color');
+        color: get-light-color('text-color');
         @include transition();
       }
     }
