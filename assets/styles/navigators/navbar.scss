@@ -113,7 +113,7 @@
           color: get-light-color('accent-color');
         }
         a:hover {
-          color: get-light-color('highlight-color');
+          color: get-light-color('highlight-color') !important;
         }
       }
     }
@@ -159,7 +159,7 @@
     &.transparent-navbar {
       .navbar-nav .active,
       li a:hover {
-        color: get-light-color('highlight-color');
+        color: get-light-color('highlight-color') !important;
         @include transition();
       }
     }
@@ -254,7 +254,7 @@ html[data-theme='dark'] {
             color: get-dark-color('accent-color');
           }
           a:hover {
-            color: get-dark-color('highlight-color');
+            color: get-dark-color('highlight-color') !important;
           }
         }
       }
