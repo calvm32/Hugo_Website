@@ -7,7 +7,7 @@
   &:hover,
   &:focus {
     box-shadow: $box-shadow;
-    border: 1px solid get-light-color('bg-primary');
+    border: 1px solid get-light-color('accent-color');
     @include transition();
     .card-img-top {
       transform: scale(1.2);
