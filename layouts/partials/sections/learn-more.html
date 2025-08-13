@@ -3,7 +3,7 @@
   {{ $sectionID = .section.id }}
 {{ end }}
 
-<div class="container-fluid anchor pb-5 learn-more-section" id="{{ $sectionID }}">
+<div class="container-fluid anchor pb-5 projects-section" id="{{ $sectionID }}">
   {{ if not (.section.hideTitle) }}
     <h1 class="text-center" style="font-size: 32px;">
         <span id="{{ $sectionID }}"></span>{{ .section.name }}</h1>
@@ -12,7 +12,9 @@
         <span id="{{ $sectionID }}"></span>{{ .section.name }}</h1>
   {{ end }}
   <div class="container ms-auto text-center">
-    For more information about any of the above projects, click on their 
-    cards or visit them at <a href="/posts/projects">posts</a>.
+    <p class="p-1">
+      For more information about any of the above projects, click on their 
+      cards or visit them at <a href="/posts/projects">posts</a>.
+    </p>
   </div>
 </div>
