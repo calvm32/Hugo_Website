@@ -168,8 +168,6 @@
                   <button type="submit" class="btn btn-info">{{ i18n "submit" }}</button>
                 </div>
               </form>
-
-            <p>{{ i18n "newsletter_text" }}</p>
             {{ else }}
               <form method='post' action='https://blogtrottr.com'>
                 <div class="form-group d-flex gap-2">
@@ -183,7 +181,10 @@
                   <button type="submit" class="btn btn-info">{{ i18n "submit" }}</button>
                 </div>
               </form>
-            {{ end }}
+            {{ end }}        
+            <div style="margin-top: 12px;">
+              <p>{{ i18n "newsletter_warning" }}</p>
+            </div>
           </div>
         {{ end }}
       </div>
