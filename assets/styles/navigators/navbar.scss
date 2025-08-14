@@ -1,13 +1,13 @@
 @mixin nav-item-hover-effect($theme: 'light') {
-  color: get-light-color('accent-color') !important;
-  border-bottom: 2px solid get-light-color('accent-color') !important;
-  background: rgba(get-light-color('accent-color'), 0.1);
+  color: get-light-color('highlight-color') !important;
+  border-bottom: 2px solid get-light-color('highlight-color') !important;
+  background: rgba(get-light-color('highlight-color'), 0.1);
   @include transition();
 
   @if $theme == 'dark' {
-    color: get-dark-color('accent-color') !important;
-    border-bottom: 2px solid get-dark-color('accent-color') !important;
-    background: rgba(get-dark-color('accent-color'), 0.1);
+    color: get-dark-color('highlight-color') !important;
+    border-bottom: 2px solid get-dark-color('highlight-color') !important;
+    background: rgba(get-dark-color('highlight-color'), 0.1);
   }
 }
 
