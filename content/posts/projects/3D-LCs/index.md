@@ -8,6 +8,7 @@ menu:
     parent: projects
     weight: 10
 hero: bg.png
+date: 2025-08-01T08:06:25+06:00
 ---
 
 There is plenty of research investigating properties of liquid crystal (LC) spheres, but little work published about LC shells, the result of removing the volume of a smaller sphere from a larger one. Yuzhi Liu, Dr. Andrew Hicks, and I are working to determine how and why different kinds of defects form in these shells.

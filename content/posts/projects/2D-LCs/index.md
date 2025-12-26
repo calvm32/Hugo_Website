@@ -8,6 +8,7 @@ menu:
     parent: projects
     weight: 20
 hero: bg.png
+date: 2025-08-01T08:06:25+06:00
 ---
 
 The repository ["<i>Q-tensor 2D</i>"](https://github.com/calvm32/q-tensor-2d) is an implementation of the Landau-de Gennes (LdG) Q-tensor model for liquid crystals (LCs) based on Andrew Hicks' ["<i>Q-tensor 3D</i>"](https://github.com/andrewlhicks/q-tensor-3d). Our goal was to learn the LdG method for solving the energy of a system of LCs at equilibrium. 

@@ -9,6 +9,7 @@ menu:
     weight: 30
 hero: bg.png
 math: true
+date: 2024-05-01T08:06:25+06:00
 ---
 
 This research uses Artin-Schreier presentations to classify Galois
@@ -23,6 +24,6 @@ Theory Conference in Omaha, Nebraska. The official website can be found
 [here](http://www.hopf-galois.org/2024Omaha/index.html). Below are the slides and a video of me presenting them to the audience at
 the Omaha 2024 conference.
 
-{{< embed-pdf url="./galois-theory.pdf" >}}
+{{< embed-pdf url="/files/galois-theory.pdf" >}}
 
 This project is ongoing, and I hope to publish my results soon.

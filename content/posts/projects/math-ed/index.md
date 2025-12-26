@@ -8,6 +8,7 @@ menu:
     parent: projects
     weight: 40
 hero: bg.png
+date: 2024-04-12T08:06:25+06:00
 ---
 
 Since September, 2024, I have worked under the supervision of [Dr. Keith Gallagher](https://www.unomaha.edu/college-of-arts-and-sciences/mathematics/about-us/directory/keith-gallagher.php) to examine the treatment of logarithms in College Algebra-level resources. 
