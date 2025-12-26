@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 description: "Introduction to Sample Post"
-weight: 10
+weight: 1
 menu:
   sidebar:
     name: Introduction
