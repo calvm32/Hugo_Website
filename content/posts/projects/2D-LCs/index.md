@@ -1,12 +1,12 @@
 ---
 title: "2D Liquid Crystals"
 description: "Simulating 3D Liquid Crystal defects using Landau-de Gennes theory"
+weight: 20
 menu:
   sidebar:
     name: 2D Liquid Crystals
     identifier: 2D
     parent: projects
-    weight: 20
 hero: bg.png
 date: 2025-08-01T08:06:25+06:00
 ---

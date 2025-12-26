@@ -1,12 +1,12 @@
 ---
 title: "Blender Mesh"
 description: "How to make meshes in the newest version of blender"
+weight: 90
 menu:
   sidebar:
     name: Blender Mesh
     identifier: blender_mesh
     parent: other
-    weight: 90
 hero: bg.png
 date: 2025-11-06T08:06:25+06:00
 ---

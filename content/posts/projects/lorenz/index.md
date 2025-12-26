@@ -1,12 +1,12 @@
 ---
 title: "Lorenz Attractor: Chaos and Climate"
 description: "Decribing chaotic properties of Lorenz64, and relating those to atmospheric conditions"
+weight: 11
 menu:
   sidebar:
     name: Lorenz Attractor
     identifier: lorenz
     parent: projects
-    weight: 11
 hero: bg.png
 date: 2025-12-25T08:06:25+06:00
 ---

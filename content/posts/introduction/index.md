@@ -1,15 +1,15 @@
 ---
 title: "Introduction"
-date: 2025-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+description: "Introduction to Sample Post"
+weight: 10
 menu:
   sidebar:
     name: Introduction
     identifier: introduction
-    weight: 10
 tags: ["Basic"]
 categories: ["Basic"]
 hero: bg.png
+date: 2025-06-08T08:06:25+06:00
 ---
 
 Hi! I'm Calum (Cal) Heldt. 

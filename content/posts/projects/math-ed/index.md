@@ -1,12 +1,12 @@
 ---
 title: "Math Education Research"
 description: "Classifying maximal nilpotency class p-groups"
+weight: 40
 menu:
   sidebar:
     name: Math Education
     identifier: math-ed
     parent: projects
-    weight: 40
 hero: bg.png
 date: 2024-04-12T08:06:25+06:00
 ---

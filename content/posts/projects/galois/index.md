@@ -1,12 +1,12 @@
 ---
 title: "Galois Theory Research"
 description: "Classifying maximal nilpotency class p-groups"
+weight: 30
 menu:
   sidebar:
     name: Galois Theory
     identifier: galois-theory
     parent: projects
-    weight: 30
 hero: bg.png
 math: true
 date: 2024-05-01T08:06:25+06:00
