@@ -6,7 +6,7 @@ menu:
     name: Blender Mesh
     identifier: blender_mesh
     parent: other
-    weight: 11
+    weight: 90
 hero: bg.png
 date: 2025-11-06T08:06:25+06:00
 ---

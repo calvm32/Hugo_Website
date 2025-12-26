@@ -6,7 +6,7 @@ menu:
     name: Lorenz Attractor
     identifier: lorenz
     parent: projects
-    weight: 9
+    weight: 11
 hero: bg.png
 date: 2025-12-25T08:06:25+06:00
 ---
