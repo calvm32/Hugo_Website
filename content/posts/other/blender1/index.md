@@ -4,7 +4,7 @@ description: "How to make meshes in the newest version of blender"
 weight: 90
 menu:
   sidebar:
-    name: Blender Mesh
+    name: Blender Mesh BUG FIX
     identifier: blender_mesh
     parent: other
 hero: bg.png
