@@ -13,12 +13,12 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Research
+- name: All Research
   filter: "research"
+- name: Differential Equations
+  filter: "diff-eqs"
 - name: Programming
   filter: "programming"
-- name: Differential Equations
-  filter: "diff=eqs"
 
 # your projects
 projects:
