@@ -36,17 +36,15 @@ publications:
 - title: Using Boolean Networks to Model Bat Populations' Susceptibility to White-Nose Syndrome in Midwest Hibernacula (title TBD :) 
   publishedIn:
     name: Coming Soon !!
-    #date: March 2025
-    #url: http://sigmaa.maa.org/rume/Site/Proceedings.html
+    # date: 
+    # url: 
   authors:
-  - name: Calum Heldt
-    url: https://www.calheldt.xyz
-  - name: Nick Linares
-  - name: Dora Velcsov
-    url: https://www.unomaha.edu/college-of-arts-and-sciences/mathematics/about-us/directory/dora-velcsov.php
+    - name: Calum Heldt
+      url: https://www.calheldt.xyz
+    - name: Nick Linares
+    - name: Dora Velcsov
+      url: https://www.unomaha.edu/college-of-arts-and-sciences/mathematics/about-us/directory/dora-velcsov.php
   paper:
-    #summary: Students often apply logarithmic identities without accounting for their domain of definition, 
-      leading to missing or extraneous solutions. We investigate the treatment of these errors in websites 
-      students may use to learn about logarithmic identities.
-    #url: http://sigmaa.maa.org/rume/RUME27_Proceedings.pdf
+    summary: "Coming soon."
+    # url: ""
   tags: ["ecological-modeling", "boolean-networks"]

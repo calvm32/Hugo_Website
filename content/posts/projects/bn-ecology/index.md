@@ -1,10 +1,10 @@
 ---
-title: "Modeling Bat Populations"
+title: "Boolean Networks and Ecology"
 description: "Using Boolean Networks to model bat populations' susceptibilities to WNS (White Nose Syndrome)"
 weight: -8
 menu:
   sidebar:
-    name: Modeling Bat Populations
+    name: Boolean Networks and Ecology
     identifier: BNE
     parent: projects
 hero: bg.png

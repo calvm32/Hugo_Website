@@ -17,13 +17,52 @@ buttons:
   filter: "research"
 - name: Programming
   filter: "programming"
+- name: Differential Equations
+  filter: "diff=eqs"
 
 # your projects
 projects:
+- name: Boolean Networks and Ecology
+  role: Researcher
+  timeline: "March 2026 - Present"
+  url: "/posts/projects/bn-ecology"
+  summary: Using Boolean Networks to model bat populations' susceptibilities to WNS (White Nose Syndrome).
+  tags: ["research", "networks", "ecology", "math-modeling", "programming"]
+
+- name: Fluid Dynamics
+  role: Researcher
+  timeline: "Sept. 2025 - Present"
+  repo: "https://github.com/calvm32/Navier_Stokes_Voigt"
+  url: "/posts/projects/fluid-dynamics"
+  summary: Determining the turbulence statistics of the Navier-Stokes-Voigt equations.
+  tags: ["research", "diff-eqs", "math-modeling", "programming"]
+
+- name: Non-Autonomous Cahn-Hilliard Equation
+  role: Researcher
+  timeline: "June 2026 - Present"
+  url: "/posts/projects/cahn-hilliard"
+  summary: Decribing chaotic properties of Lorenz '64, and relating those to atmospheric conditions.
+  tags: ["research", "diff-eqs", "chaos", "programming"]
+
+- name: TAMU Summer School in PDEs
+  role: Student
+  timeline: "May 18-29, 2026"
+  repo: "https://github.com/calvm32/TAMU_Summer_School"
+  url: "/posts/projects/tamu-school"
+  summary: Exploring elasticity and other topics in PDEs with Dr. Matthias Maier at Texas A&M.
+  tags: ["research", "diff-eqs", "math-modeling", "programming"]
+
+- name: "Lorenz Attractor: Chaos and Climate"
+  role: Researcher
+  timeline: "Oct. 2025 - Dec. 2025"
+  url: "/posts/projects/lorenz"
+  summary: Determining the pattern-selection of the non-autonomous Cahn-Hilliard equation at freeze-out time.
+  tags: ["research", "diff-eqs", "pattern-selection", "programming"]
+
 - name: 3D Liquid Crystals
   role: Researcher
-  timeline: "May 2025 - Present"
-  #repo: "https://github.com/calvm32/q-tensor_Saves"
+  timeline: "May 2025 - Feb. 2026"
+  repo: "https://github.com/calvm32/q-tensor_Saves"
   url: "/posts/projects/3D-LCs"
   summary: Investigating formation of defects in a 3D system of liquid crystals.
   tags: ["research", "liquid-crystals", "defects"]
@@ -31,10 +70,10 @@ projects:
 - name: 2D Liquid Crystals
   role: Developer
   timeline: "May - July 2025"
-  #repo: "https://github.com/calvm32/q-tensor-2d"
+  repo: "https://github.com/calvm32/q-tensor-2d"
   url: "/posts/projects/2D-LCs"
   summary: Repository for solving for a 2D system of liquid crystals at equilibrium.
-  tags: ["programming", "research", "liquid-crystals"]
+  tags: ["research", "liquid-crystals", "math-modeling", "programming"]
 
 - name: Galois Theory
   role: Sole researcher
@@ -52,7 +91,7 @@ projects:
 
 - name: MaVS
   logo: "/images/math/MaVS-bg.png"
-  role: Contributor
+  role: Developer
   timeline: "June - Aug. 2024"
   url: "https://mavs.uno/"
   summary: STEM topics explained through interactive visuals. 3B1B SoME winner.

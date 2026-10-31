@@ -37,6 +37,7 @@ body.kind-page {
           width: -moz-fit-content;
           width: fit-content;
           margin: auto;
+          background-color: get-light-color('text-over-accent-color');
 
           .pagination {
             margin-left: auto;
@@ -45,11 +46,13 @@ body.kind-page {
             margin-bottom: 0.5rem;
             width: -moz-fit-content;
             width: fit-content;
+            background-color: get-light-color('text-over-accent-color');
           }
 
           .page-item {
             & > a {
               color: get-light-color('accent-color');
+              background-color: transparent;
             }
 
             &.active > a {
